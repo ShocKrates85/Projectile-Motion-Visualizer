@@ -2,7 +2,6 @@ from manim import *
 
 #Other Ideas to Add
 #add arc length? (total distance)
-#put on github
 
 class ProjectileMotion(Scene):
     def construct(self):
